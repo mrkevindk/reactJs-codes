@@ -1,0 +1,24 @@
+.thumbnail-item {
+  margin: 10px;
+}
+
+.thumbnail-btn {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+}
+
+.thumbnail {
+  width: 100px;
+  height: 80px;
+  opacity: 0.5;
+}
+
+.thumbnail.active {
+  opacity: 1;
+  border: 2px solid #ffffff;
+}
+.thumbnail-img-size {
+  height: 50px;
+  width: 50px;
+}
